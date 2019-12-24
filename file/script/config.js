@@ -1,0 +1,1 @@
+var DTPath = "http://www.lizhi.com/";var DTMob = "http://www.lizhi.com/mobile/";var SKPath = "http://www.lizhi.com/skin/default/";var MEPath = "http://www.lizhi.com/member/";var DTEditor = "fckeditor";var CKDomain = "";var CKPath = "/";var CKPrex = "ch8_";

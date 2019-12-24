@@ -1,0 +1,16 @@
+<?PHP exit;?>	1577091301	admin	1	127.0.0.1		GET={}; POST={};
+<?PHP exit;?>	1577091301	admin	1	127.0.0.1	index	GET={}; POST={};
+<?PHP exit;?>	1577091303	admin	1	127.0.0.1	checktools	GET={operation=filecheck; homecheck=yes; inajax=1; ajaxtarget=filecheck_div; }; POST={};
+<?PHP exit;?>	1577091410	admin	1	127.0.0.1	forums	GET={}; POST={};
+<?PHP exit;?>	1577091412	admin	1	127.0.0.1	group	GET={operation=setting; }; POST={};
+<?PHP exit;?>	1577091413	admin	1	127.0.0.1	setting	GET={operation=sec; }; POST={};
+<?PHP exit;?>	1577091414	admin	1	127.0.0.1	announce	GET={}; POST={};
+<?PHP exit;?>	1577091414	admin	1	127.0.0.1	plugins	GET={}; POST={};
+<?PHP exit;?>	1577091415	admin	1	127.0.0.1	tools	GET={operation=updatecache; }; POST={};
+<?PHP exit;?>	1577091416	admin	1	127.0.0.1	founder	GET={operation=perm; }; POST={};
+<?PHP exit;?>	1577091420	admin	1	127.0.0.1	index	GET={}; POST={};
+<?PHP exit;?>	1577091422	admin	1	127.0.0.1	setting	GET={operation=basic; }; POST={};
+<?PHP exit;?>	1577091428	admin	1	127.0.0.1	index	GET={}; POST={};
+<?PHP exit;?>	1577091432	admin	1	127.0.0.1	misc	GET={operation=custommenu; }; POST={};
+<?PHP exit;?>	1577091434	admin	1	127.0.0.1	nav	GET={}; POST={};
+<?PHP exit;?>	1577091434	admin	1	127.0.0.1	moderate	GET={}; POST={};
